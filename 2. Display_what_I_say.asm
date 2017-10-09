@@ -10,8 +10,6 @@ section .bss
 
    num resb 5          ; reserved for enter number
 
-
-
 section .text
    global main
 
